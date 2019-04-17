@@ -2,7 +2,9 @@
 
 ## Installation instructions
 
-1. Navigate to the directory and run npm install
+1. Navigate to the directory and run 
+        
+        npm install
 
 ## To Run
 
