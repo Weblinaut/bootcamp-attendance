@@ -1,4 +1,4 @@
-# Instructor Bor Conceirge
+# Instructor Bot Conceirge
 
 ## Installation instructions
 
